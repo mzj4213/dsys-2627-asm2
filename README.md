@@ -20,13 +20,13 @@ Open a terminal in this folder.
 
 ```bash
 chmod +x run.sh
-./run.sh
+sh "./run.sh"
 ```
 
 or alternatively the Clojure script can be run diretly.
 
 ```bash
-clojure session_store.clj
+clojure project.clj
 ```
 
 ## Functional programming concepts demonstrated

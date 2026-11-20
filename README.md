@@ -1,4 +1,4 @@
-# Distributed Word Count Simulation
+# Concurrent Session Store Simulation
 
 ## Overview
 

@@ -19,6 +19,6 @@ if ! command -v clojure &> /dev/null; then
     rm linux-install-1.11.1.1413.sh
 fi
 
-echo ""
+echo "=== Depencies installed ==="
 echo "=== Running Concurrent Session Store Simulation ==="
-clojure session_store.clj
+clojure project.clj

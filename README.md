@@ -20,7 +20,7 @@ Open a terminal in this folder.
 
 ```bash
 chmod +x run.sh
-sh "./run.sh"
+bash "./run.sh"
 ```
 
 or alternatively the Clojure script can be run diretly.
